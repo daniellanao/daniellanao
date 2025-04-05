@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋🔥, I'm Daniel Lanao</h1>
 <h3 align="center">Senior Software Engineer, creating and supporting amazing new projects and ventures 🚀☀️</h3>
 
-- 🔭 I’m currently working on [Banking System](https://github.com/daniellanao/nodejs_banking)
+- 🔭 I’m currently working on Financial Platforms for Fintechs, Angel Investors, Venture Capital firms, Investment Banks, Wealth Management firms, and Asset Management firms
 
-- 🌱 I’m currently learning **AI Tools**
+- 🌱 I’m currently learning **AI Tools** & **Web3**
 
 - 👨‍💻 All of my projects are available at [https://daniellanao/portfolio](https://daniellanao/portfolio)
 
