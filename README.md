@@ -12,7 +12,9 @@ I build products, lead technical teams, and turn business problems into working 
 
 I started my career as a Software Developer and progressively moved closer to product, strategy, and business.
 
-With more than 13 years of experience, I've worked as a developer, technical leader, Product Owner, CTO, and founder — mostly across startups and fintech.
+With more than 13 years of experience, I’ve grown from Software Developer to Technical Leader, Product Owner, CTO, and Founder.
+
+Most of my career has been in startups and fintech, where I’ve worked across technology, product, and business.
 
 I enjoy working at the intersection of **technology, product, customers, and business**: understanding a problem, discussing possible solutions with different teams, and then helping turn those ideas into something that actually works.
 
