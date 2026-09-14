@@ -12,11 +12,11 @@ I build products, lead technical teams, and turn business problems into working 
 
 I started my career as a Software Developer and progressively moved closer to product, strategy, and business.
 
-After more than 13 years of experience, I've worked as a developer, technical leader, Product Owner, CTO, and founder — mostly across startups and fintech.
+With more than 13 years of experience, I've worked as a developer, technical leader, Product Owner, CTO, and founder — mostly across startups and fintech.
 
 I enjoy working at the intersection of **technology, product, customers, and business**: understanding a problem, discussing possible solutions with different teams, and then helping turn those ideas into something that actually works.
 
-* 🚀 Currently building **SportChain**, a platform for investing in and co-owning sports facilities
+* 🚀 Currently building **[SportChain](https://www.sportchain.io/)**, a platform for investing in and co-owning sports facilities
 * 🏆 Winner of the **Aleph 2025 Hackathon — Lisk Track**
 * 🌎 Selected for the **Lisk Emerging Markets Founder Residency**
 * 🎾 Built a community of **300+ users** around SportChain and amateur padel
@@ -28,7 +28,7 @@ I enjoy working at the intersection of **technology, product, customers, and bus
 
 **Engineering**
 
-`Python` `JavaScript` `TypeScript` `PHP` `Java` `SQL`
+`PHP` `Python` `JavaScript` `TypeScript` `Java` `SQL`
 
 **Frameworks & Product Development**
 
