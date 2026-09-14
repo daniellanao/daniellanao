@@ -1,21 +1,75 @@
-<h1 align="center">Hello 👋🔥, I'm Daniel Lanao</h1>
-<h3 align="center">Senior Software Engineer, creating and supporting amazing new projects and ventures 🚀☀️</h3>
+<h1 align="center">Hi 👋, I'm Daniel Lanao</h1>
 
-- 🔭 I’m currently working on Financial Platforms for Fintechs, Angel Investors, Venture Capital firms, Investment Banks, Wealth Management firms, and Asset Management firms
+<h3 align="center">Product & Technology Leader | Founding Engineer | Product Manager</h3>
 
-- 🌱 I’m currently learning **AI Tools** & **Web3**
-
-- 👨‍💻 All of my projects are available at [https://daniellanao/portfolio](https://daniellanao/portfolio)
-
-- 💬 Ask me about **Personal Development, Business Models**
-
-- 📫 How to reach me **daniel.lanao.s@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniel-lanao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lanao/" height="30" width="40" /></a>
-<a href="https://instagram.com/daniel.lanao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@daniel.lanao" height="30" width="40" /></a>
+<p align="center">
+I build products, lead technical teams, and turn business problems into working software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### About me
+
+I started my career as a Software Developer and progressively moved closer to product, strategy, and business.
+
+After more than 13 years of experience, I've worked as a developer, technical leader, Product Owner, CTO, and founder — mostly across startups and fintech.
+
+I enjoy working at the intersection of **technology, product, customers, and business**: understanding a problem, discussing possible solutions with different teams, and then helping turn those ideas into something that actually works.
+
+* 🚀 Currently building **SportChain**, a platform for investing in and co-owning sports facilities
+* 🏆 Winner of the **Aleph 2025 Hackathon — Lisk Track**
+* 🌎 Selected for the **Lisk Emerging Markets Founder Residency**
+* 🎾 Built a community of **300+ users** around SportChain and amateur padel
+* 🏦 Previously led the development of a **Core Banking System** at a fintech that successfully passed Goldman Sachs' technical due diligence
+* 🤖 Exploring how **AI and Web3** can be applied to real products and businesses
+* 💬 Ask me about **startups, product, software architecture, fintech, Web3, or building communities**
+
+### What I work with
+
+**Engineering**
+
+`Python` `JavaScript` `TypeScript` `PHP` `Java` `SQL`
+
+**Frameworks & Product Development**
+
+`React` `Next.js` `Laravel` `Spring Boot` `REST APIs` `Microservices`
+
+**Data & Cloud**
+
+`PostgreSQL` `MySQL` `Supabase` `DynamoDB` `AWS` `Vercel` `Docker` `Serverless`
+
+**AI & Development Tools**
+
+`Cursor` `ChatGPT` `Claude` `Gemini` `Git` `GitHub`
+
+**Product & Delivery**
+
+`Product Ownership` `Agile` `Scrum` `Technical Leadership` `Solution Architecture` `API Integrations` `Stakeholder Management`
+
+### Featured work
+
+#### 🎾 SportChain
+
+Platform for investing in and co-owning sports facilities.
+
+I built the product from zero, from product definition and architecture to development, database design, deployment, and iteration with real users.
+
+I also built an **Elo Ranking and tournament management platform** and grew a community of 300+ users through events and partnerships.
+
+#### 🏦 Core Banking System
+
+Led a team of six engineers building a Core Banking System for a fintech focused on lending and credit risk.
+
+I worked closely with Finance, Operations, Product, and Engineering to translate complex financial requirements into payment processing logic, APIs, database models, and production software.
+
+The company later successfully passed **Goldman Sachs' technical due diligence**.
+
+### Outside of work
+
+I'm passionate about sports, especially padel, dancing salsa & bachata, trekking, games, and personal development.
+
+### Let's connect
+
+💼 LinkedIn: linkedin.com/in/daniel-lanao
+🌐 Portfolio: [www.daniellanao.com](http://www.daniellanao.com)
+📫 [daniel.lanao.s@gmail.com](mailto:daniel.lanao.s@gmail.com)
